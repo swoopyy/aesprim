@@ -1,28 +1,4 @@
 {
-  "_from": "esprima@1.2.2",
-  "_id": "esprima@1.2.2",
-  "_inBundle": false,
-  "_integrity": "sha1-dqD9Zvz+FU/SkmZ9wmQBl1CxZXs=",
-  "_location": "/esprima",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "esprima@1.2.2",
-    "name": "esprima",
-    "escapedName": "esprima",
-    "rawSpec": "1.2.2",
-    "saveSpec": null,
-    "fetchSpec": "1.2.2"
-  },
-  "_requiredBy": [
-    "/",
-    "/jscs"
-  ],
-  "_resolved": "https://registry.npmjs.org/esprima/-/esprima-1.2.2.tgz",
-  "_shasum": "76a0fd66fcfe154fd292667dc264019750b1657b",
-  "_spec": "esprima@1.2.2",
-  "_where": "/Users/denissamohvalov/Documents/development/jsonpath",
   "author": {
     "name": "Ariya Hidayat",
     "email": "ariya.hidayat@gmail.com"
@@ -82,10 +58,10 @@
       "url": "http://ariya.ofilabs.com"
     }
   ],
-  "name": "esprima",
+  "name": "aesprim",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ariya/esprima.git"
+    "url": "git+https://github.com/swoopyy/aesprim.git"
   },
   "scripts": {
     "analyze-complexity": "node tools/list-complexity.js",
